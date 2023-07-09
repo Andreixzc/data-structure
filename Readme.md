@@ -1,0 +1,1 @@
+Este repositório contém todos os trabalhos e exercícios desenvolvidos na disciplina de Algoritmos e Estrutura de dados

@@ -1,0 +1,1 @@
+Matricula: 749622	Tempo de execucao 0.038 segundos 	Numero de comparações: 136
