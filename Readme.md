@@ -1,4 +1,4 @@
-# Data structure I,II and III from Puc Minas University.
+# Data structure I,II and III course from Puc Minas University.
 
 ## Overview:
 
