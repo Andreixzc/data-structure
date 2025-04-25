@@ -1,1 +1,1 @@
-Garbage implementations of data structures.
+Garbage implementations of some data structures.
